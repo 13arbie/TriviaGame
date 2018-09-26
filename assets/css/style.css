@@ -1,0 +1,15 @@
+body {
+    margin: 0%;
+    padding: 2%;
+}
+
+container {
+    margin: 0%;
+    padding: 2%;
+    align-content: center;
+}
+
+.jumbotron {
+    text-align: center;
+    align-content: center;
+}
